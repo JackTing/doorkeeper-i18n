@@ -145,7 +145,7 @@ zh-CN:
     layouts:
       admin:
         nav:
-          oauth2_provider: 'OAuth2 Provider'
+          oauth2_provider: '开放授权管理'
           applications: '应用'
       application:
         title: 'OAuth 认证'
